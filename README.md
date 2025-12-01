@@ -45,7 +45,7 @@ make re
 ## Usage
 You can clone the project repository from GitHub using the following command:
 ```
-git clone https://github.com/atay3/my_ls.git
+git clone https://github.com/asht3/my_ls.git
 ```
 
 After compiling the code, run it by using:
